@@ -16,7 +16,7 @@ This project captures and visualizes EEG (electroencephalography) signals using 
 - [License](#license)
 
 ## Introduction
-This project is designed for capturing brain wave signals using an EEG sensor connected to an Arduino. The captured signal is sent to a Python script via serial communication, which then visualizes the data using Matplotlib.
+This project is designed for capturing brain wave signals using an EEG sensor connected to an Arduino. The captured signal is sent to a Python script via serial communication,which then visualizes the data using Matplotlib.
 
 ## Features
 - Real-time EEG data acquisition
